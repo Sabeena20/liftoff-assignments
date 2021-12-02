@@ -14,11 +14,11 @@ There the user can filter the items based on the brand,product type,price,store.
 
 The motivaton for this project came from how I do shopping in the grocery market.I would like to know the product I buy uses the ingredients I eat and it is okay for my diet.
 ### Features
--User will be able to select a diet and view the products.-Filter results based on price,brand,product type etc.
+-User will be able to select a diet and view the products-Filter results based on price,brand,product type etc.
 -Global search option to search products in all categories or particular category.
 
 ### Technologies
--AngularJS,-C#,-MySql database
+-AngularJS-C#-MySql database
 -BootStrap
 
 
